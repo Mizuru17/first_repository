@@ -1,2 +1,3 @@
 # first_repository
-Object-oriented programming
+Це мої перші дії
+А це мої перші зміни
